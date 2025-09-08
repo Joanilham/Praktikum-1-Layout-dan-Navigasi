@@ -43,5 +43,7 @@ Anda dapat mencari gambar di internet yang ingin ditampilkan. Buatlah folder ima
 Tambahkan gambar ke body
 
 ![alt text](assets/images/image-6.png)
----
 
+---
+Hasil Akhir
+![alt text](assets/images/image7.png)
